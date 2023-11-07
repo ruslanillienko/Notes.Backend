@@ -1,4 +1,4 @@
-namespace ToDoList.WebApi
+namespace ToDoLists.WebApi
 {
     public class Program
     {
