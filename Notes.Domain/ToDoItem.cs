@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ToDoLists.Domain
+namespace ToDo.Domain
 {
     public class ToDoItem
     {
