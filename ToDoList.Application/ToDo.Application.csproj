@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ToDoList.Application\ToDoLists.Application.csproj" />
+    <ProjectReference Include="..\Notes.Domain\ToDo.Domain.csproj" />
   </ItemGroup>
 
 </Project>
